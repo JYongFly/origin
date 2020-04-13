@@ -5,4 +5,6 @@ while True:
         break
 
 f.close()
-#github修改了
+
+#github删除了之前的修改，并添加了新的修改
+##以上操作为了学习 git fetch 的使用
